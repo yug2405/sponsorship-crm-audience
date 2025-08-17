@@ -1,4 +1,1 @@
-Sponsorship CRM \& Audience Segmentation Project
-
-
-
+# Sponsorship CRM & Audience Segmentation Project
